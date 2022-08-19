@@ -1,0 +1,1 @@
+export const domain = 'https://ecommerce.main-gate.appx.uz'

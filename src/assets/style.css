@@ -1,0 +1,84 @@
+
+/* 
+@media only screen and (max-width: 640px){
+    .headertop{
+        padding: 10px;
+        margin-bottom: 0;
+        display:flex;
+        flex-direction: column;
+    }
+
+    .exit{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .headermid{
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .searchbar{
+        width: fit-content;
+    }
+
+    .headbot{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .mainimg{
+        padding: 0;
+
+    }
+
+    .mainBot{
+       display: none;
+    }
+
+    .cart1{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        flex-wrap:nowrap;
+    }
+    .cart{  
+      width: 100%;
+      gap:20px;
+    }
+
+    .card{
+        gap: 20px;
+    }
+    /* .mySwiper{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    position: relative;
+    padding:20px;
+    } */
+
+    /* .swiper{
+        gap: 10px;
+        padding: 5px;
+        margin: 0;
+    } */
+/* 
+
+    .footer{
+        display: flex;
+        flex-direction: column;
+    }
+
+
+    .take{
+        padding: 10px;
+        margin: 10px;
+    }
+    .takeBox{
+        height: 100vh;
+        width: 100%;
+    }
+} */ 
